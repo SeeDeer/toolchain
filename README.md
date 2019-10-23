@@ -1,6 +1,13 @@
 # toolchain
 常用交叉编译器收录
 
+- arm-linux-3.4.5			jz2440开发板
+- arm-linux-gnueabihf-4.8.3		树莓派Raspberry Pi 3 Model B
+- arm-none-eabi-5.4.1			Cortex内核系列
+- arm-none-linux-gnueabi-4.3.2		jz2440开发板
+- mips-linux-uclibc-3.4.4		AR7241主控
+- xtensa-lx106-elf-4.8.2		esp8266 2.x版本sdk
+
 ## 交叉编译器环境变量设置方法
 
 ```shell
